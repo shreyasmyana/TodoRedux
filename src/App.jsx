@@ -8,7 +8,7 @@ function App() {
   return (
     <div className='h-screen'>
       <header>
-        <h1 className='text-white'>React With Redux toolkit</h1>
+        <h1 className='text-white'>React With Redux toolkit updated</h1>
       </header>
       <div>
         <AddTodo />
